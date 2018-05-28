@@ -1,0 +1,1 @@
+Guitarra,14,madera,2,100,12,0,
